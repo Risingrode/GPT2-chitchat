@@ -1,0 +1,4 @@
+2024-06-08 22:37:25,048 - INFO - preprocessing data,data path:data/train.txt, save path:data/train.pkl
+2024-06-08 22:37:25,067 - INFO - there are 5000 dialogue in dataset
+2024-06-08 22:37:37,624 - INFO - finish preprocessing data,the result is stored in data/train.pkl
+2024-06-08 22:37:37,624 - INFO - mean of dialogue len:381.1136,median of dialogue len:261.0,max len:9170
